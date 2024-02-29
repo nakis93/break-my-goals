@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "break-my-goals",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

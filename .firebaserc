@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "break-my-goals": {
+      "hosting": {
+        "break-my-goals": [
+          "break-my-goals"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "break-my-goals"
+  }
+}
